@@ -7,9 +7,9 @@
 [submodule "benchmarks/bugswarm"]
 	path = benchmarks/bugswarm
 	url = https://github.com/BugSwarm/bugswarm.git
-[submodule "benchmarks/growingbugs"]
-	path = benchmarks/growingbugs
-	url = https://github.com/liuhuigmail/GrowingBugRepository.git
 [submodule "benchmarks/bugs-dot-jar"]
 	path = benchmarks/bugs-dot-jar
 	url = https://github.com/bugs-dot-jar/bugs-dot-jar
+[submodule "benchmarks/growingbugs"]
+	path = benchmarks/growingbugs
+	url = https://github.com/liuhuigmail/GrowingBugRepository.git
